@@ -1,78 +1,78 @@
-send.location,receive.location,total.items,weight
-USA Orange NJ,DEU Ribnitz Mecklenburg,352,1
-USA Cincinnati OH,DEU Ribnitz Mecklenburg,4916,12
-USA Newport KY,DEU Ribnitz Mecklenburg,2695,6
-USA Oskaloosa IA,DEU Ribnitz Mecklenburg,12925,32
-USA Warsaw IL,DEU Ribnitz Mecklenburg,2985,7
-USA Koekuk IA?,DEU Ribnitz Mecklenburg,814,2
-USA Maisfeld near Oskaloosa,DEU Ribnitz Mecklenburg,542,1
-USA Monroe MI,DEU Nienhagen Mecklenburg,360,1
-USA Tonawanda NY,DEU Nienhagen Mecklenburg,4203,11
-USA Oak Grove WI,DEU Neubrunn TH,2389,6
-USA Edwardsville IL,DEU Neubrunn TH,2775,7
-USA New York NY,DEU Limbach SA,8258,20
-USA Williamsburg NY,DEU Limbach SA,980,3
-USA Brooklyn NY,DEU Limbach SA,1960,5
-USA San Francisco CA,DEU Limbach SA,6851,17
-USA Union Hill NY,DEU Limbach SA,408,1
-USA Sonoma CA,DEU Limbach SA,1194,3
-DEU OberweiÃŸbach TH,USA Brooklyn NY,413,1
-USA Brooklyn NY,DEU OberweiÃŸbach TH,17692,43
-USA Waterloo WI,DEU Roda TH,826,2
-"USA Amherst, Portage Co. WI",DEU Roda TH,6808,16
-USA Minneapolis MN,DEU Apolda TH,452,1
-DEU GrÃ¤fenthal TH,USA New York NY,314,1
-DEU Piesau TH,USA New York NY,586,2
-USA Austin TX,DEU Piesau TH,2540,6
-USA New York NY,DEU Piesau TH,2367,6
-USA Brenham TX,DEU Piesau TH,3152,8
-DEU Leipzig SA,DEU Leisnig SA,432,1
-USA Oliverea NY,USA New York NY,449,1
-USA Trenton NJ,DEU MÃ¼hlhausen TH,3089,8
-DEU Erfurt TH,DEU MÃ¼hlhausen TH,322,1
-USA Perry OK,DEU Jena TH,981,2
-USA Shamrock OK,DEU Jena TH,401,1
-USA Midford OK,DEU Jena TH,306,1
-USA Wellington KS,DEU Jena TH,355,1
-USA Rochester NY,DEU Jena TH,3823,9
-USA Pittsburgh PN,DEU Jena TH,2541,6
-USA Brownfield TX,DEU Jena TH,435,1
-USA Plainview TX,DEU Jena TH,697,2
-USA Lubbock TX,DEU Jena TH,2243,6
-USA Sweetwater TX,DEU Jena TH,869,2
-USA Spur TX,DEU Jena TH,335,1
-USA Haskell TX,DEU Jena TH,866,2
-USA Lamesa TX,DEU Jena TH,1010,3
-USA Big Spring TX,DEU Jena TH,356,1
-USA Seymour TX,DEU Jena TH,896,2
-USA Guanah TX,DEU Jena TH,511,1
-USA Perryto TX,DEU Jena TH,492,1
-USA Burlington CO,DEU Jena TH,456,1
-USA Stratton CO,DEU Jena TH,445,1
-USA Ozona TX,DEU Jena TH,564,2
-USA Seminole TX,DEU Jena TH,1324,3
-DEU Jena TH,USA Texas various places,2860,7
-USA Cleveland OH,DEU Remptendorf TH,607,2
-USA Covington KY,DEU Remptendorf TH,480,1
-USA Ohio OH,DEU Remptendorf TH,750,2
-USA O. Folly Island SC,DEU Remptendorf TH,563,2
-USA Fernandina FL,DEU Remptendorf TH,1964,6
-USA Jacksonville FL,DEU Remptendorf TH,554,1
-USA St. Augustine FL,DEU Remptendorf TH,2419,5
-USA New York NY,DEU Remptendorf TH,3351,9
-USA Blue Ridge Summit PA,DEU Remptendorf TH,7369,18
-USA Chicago IL,DEU Remptendorf TH,262,1
-USA Orange NJ,DEU Remptendorf TH,1794,4
-USA Warrensville OH,DEU Remptendorf TH,1178,3
-USA Ann Arbor MI,DEU Remptendorf TH,1804,4
-USA Homer OH,DEU Remptendorf TH,351,1
-USA Wilmington Delaware,DEU Remptendorf TH,3234,8
-USA Columbus OH,DEU Remptendorf TH,2384,6
-USA Wood Ridge NJ,DEU Remptendorf TH,825,2
-USA Jersey City NJ,DEU Remptendorf TH,4158,10
-USA Princeton NJ,DEU Remptendorf TH,506,1
-USA Port Cester NY,DEU Remptendorf TH,382,1
-USA Rutherford NJ,DEU Remptendorf TH,325,1
-USA Carlstadt NJ,DEU Remptendorf TH,7596,19
-DEU Sebnitz S,USA Carlstadt NJ,351,1
-USA Lime Ridge WI,DEU Remptendorf TH,946,3
+from,to,total.items,weight
+0,75,352,1
+1,75,4916,12
+2,75,2695,6
+3,75,12925,32
+4,75,2985,7
+5,75,814,2
+6,75,542,1
+7,76,360,1
+8,76,4203,11
+9,77,2389,6
+10,77,2775,7
+11,78,8258,20
+12,78,980,3
+13,78,1960,5
+14,78,6851,17
+15,78,408,1
+16,78,1194,3
+17,13,413,1
+13,17,17692,43
+18,79,826,2
+19,79,6808,16
+20,80,452,1
+21,11,314,1
+22,11,586,2
+23,22,2540,6
+11,22,2367,6
+24,22,3152,8
+25,81,432,1
+26,11,449,1
+27,82,3089,8
+28,82,322,1
+29,50,981,2
+30,50,401,1
+31,50,306,1
+32,50,355,1
+33,50,3823,9
+34,50,2541,6
+35,50,435,1
+36,50,697,2
+37,50,2243,6
+38,50,869,2
+39,50,335,1
+40,50,866,2
+41,50,1010,3
+42,50,356,1
+43,50,896,2
+44,50,511,1
+45,50,492,1
+46,50,456,1
+47,50,445,1
+48,50,564,2
+49,50,1324,3
+50,83,2860,7
+51,84,607,2
+52,84,480,1
+53,84,750,2
+54,84,563,2
+55,84,1964,6
+56,84,554,1
+57,84,2419,5
+11,84,3351,9
+58,84,7369,18
+59,84,262,1
+0,84,1794,4
+61,84,1178,3
+62,84,1804,4
+63,84,351,1
+64,84,3234,8
+65,84,2384,6
+66,84,825,2
+67,84,4158,10
+68,84,506,1
+70,84,382,1
+71,84,325,1
+72,84,7596,19
+73,72,351,1
+74,84,946,3
